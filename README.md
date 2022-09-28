@@ -35,6 +35,9 @@ Challenge & hackathon guidance part
   -	Quantum AI Art. 
   -	Challenge & Hackathon registration 
 
+## Registration
+To sign up, register using this form: https://forms.gle/Psx58B1DRnb9fmeY6 
+
 
 ## SERIES OF WORKSHOPS
 
